@@ -3,9 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Junsik's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=40&fontAlign=50&height=250)
 
 
-## 💁 AI Engineer of Healthcare Company <font color="#e96e16">Ontact</font><sp style="color:#ef8a07">Health</sp> 💁
+## 💁 AI Engineer of Healthcare Company ${\textsf{\color{#e96e16}Ontact}}{\textsf{\color{#ef8a07}Health}}$ 💁
 👋 Hello, I am **Junsik Kong!**<br> 
- I'm a **Master of Industrial Engineering and Data Analyst of <span style="color:#e96e16">Ontact</span><span style="color:#ef8a07">Health</span>** now <br>
+ I'm a **Master of Industrial Engineering and Data Analyst of ${\textsf{\color{#e96e16}Ontact}}{\textsf{\color{#ef8a07}Health}}$** now <br>
  How to reach me: **jsgong94@gmail.com**<br> 
 </div>
 
@@ -21,8 +21,10 @@
   <img src="https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> 
   <img src="https://img.shields.io/badge/gitlab%20CI-181717?style=for-the-badge&logo=gitlab&logoColor=white">
   <br/>
+  <img src="https://img.shields.io/badge/triton inference server-76B900?style=for-the-badge&logo=nvidia&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=white"> 
+
  <p>
 </div>	
 <br>
@@ -38,10 +40,15 @@
 <div align=center><h2>🛠 Tools 🛠</h2></div>
 <div align=center>
 <p>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/cent os-002260?style=for-the-badge&logo=centos&logoColor=white">
+  <img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white">
+  <br/>  
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
  <p>
 </div>
 <br>
