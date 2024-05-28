@@ -3,9 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Junsik's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=40&fontAlign=50&height=250)
 
 
-## 💁 AI Engineer of Healthcare Company \<OntactHealth\> 💁
+## 💁 AI Engineer of Healthcare Company <span style="color:#e96e16">Ontact</span><span style="color:#ef8a07">Health</span> 💁
 👋 Hello, I am **Junsik Kong!**<br> 
- I'm a **Master of Industrial Engineering and Data Analyst of OntactHealth** now <br>
+ I'm a **Master of Industrial Engineering and Data Analyst of <span style="color:#e96e16">Ontact</span><span style="color:#ef8a07">Health</span>** now <br>
  How to reach me: **jsgong94@gmail.com**<br> 
 </div>
 
@@ -27,7 +27,11 @@
 <br>
 
 <div align=center><h2>💻 My Interest 💻 </h2></div>	
-<div align=center><h3>AI Engineering / MLOps</h3></div>	
+
+<div align=center>  
+  <img src="https://img.shields.io/badge/ai engineering-FF6F00?style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/MLOps-d9ead3?style=for-the-badge"> 
+</div>	
 <br>
 
 <div align=center><h2>🛠 Tools 🛠</h2></div>
@@ -66,7 +70,7 @@
 ### 🪖 병역
 |복무기간|군별|비고|
 |-|-|-|
-|2021.11 ~ 2024.11|전문연구요원|복무중 (23.11.10 소집해제)
+|2021.11 ~ 2024.11|전문연구요원|복무중 **\<23.11.10 소집해제\>**
 
 <br/>
 
