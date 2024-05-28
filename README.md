@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Junsik's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=40&fontAlign=50&height=250)
 
 
-## 💁 AI Engineer of Healthcare Company <span style="color:#e96e16">Ontact</span><span style="color:#ef8a07">Health</span> 💁
+## 💁 AI Engineer of Healthcare Company <p style="color:#e96e16">Ontact</span><p style="color:#ef8a07">Health</span> 💁
 👋 Hello, I am **Junsik Kong!**<br> 
  I'm a **Master of Industrial Engineering and Data Analyst of <span style="color:#e96e16">Ontact</span><span style="color:#ef8a07">Health</span>** now <br>
  How to reach me: **jsgong94@gmail.com**<br> 
