@@ -29,7 +29,7 @@
 </div>	
 <br>
 
-<div align=center><h2>💻 My Interest 💻 </h2></div>	
+<div align=center><h2>💻 My Interests 💻 </h2></div>	
 
 <div align=center>  
   <img src="https://img.shields.io/badge/ai engineering-FF6F00?style=for-the-badge"> 
@@ -78,13 +78,21 @@
 ### 🪖 병역
 |복무기간|군별|비고|
 |-|-|-|
-|2021.11 ~ 2024.11|전문연구요원|복무중 **\<24.11.10 소집해제\>**
+|2021.11 ~ 2024.11|전문연구요원|복무중 <br/>**24.11.10 소집해제🎉**
 
 <br/>
 
 ### 💻 프로젝트
 |수행기간|keyword|프로젝트명|역할|획득능력|주요 성과|
 |-|-|-|-|-|-|
+|2023.10 ~ |Python<br/>FastAPI · Tensorflow · Numpy<br/>Golang<br/>Echo · Fiber · Gonum<br/><hr/>Onnx · TensorRT · Triton<br/>AWS · Docker|온이원|AI Backend|.|.|
+|2023.05 ~ 2023.10|Python<br/>FastAPI · Tensorflow · Numpy|애니핏 플러스|AI Backend|.|.|
+|2022.10 ~ 2023.05|Python<br/>FastAPI · Keras · Tensorflow · Numpy<br/>NATS(MQ)|AID Core Module|AI Research &<br/>System Engineering|.|.|
+|2022.02 ~ 2022.09|.|CEMS AI|AI Backend|.|.|
+|2021.11 ~ 2022.02|.|AI Master|System Engineering|.|.|
+|2017.06 ~ 2019.05|.|정보기반 협업을 위한 온톨로지 모델 개발 및 정보관리 기법 연구|Researcher|.|.|
+|2016.11 ~ 2019.09|.|사물인터넷 기반의 고령자 보행사고 예방을 위한 기술 연구|Researcher|.|.|
+|2016.10 ~ 2018.01|.|가전제품의 장애유형 독립적인 입력 및 이상상황 접근성 향상 기술의 개발|Researcher|.|.|
 
 
 <br>
