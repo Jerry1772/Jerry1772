@@ -1,37 +1,42 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Eun-kyoung's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=40&fontAlign=50&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Junsik's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=40&fontAlign=50&height=250)
 
 
-## 💁 Data Analyst of Healthcare Company OntactHealth 💁
-👋 Hello, I am **Eun kyoung Lee!**<br> 
- I'm a **Master of Statistics and Data Analyst of OntactHealth** now <br>
- How to reach me: **ilojeyou98@sookmyung.ac.kr**<br> 
+## 💁 AI Engineer of Healthcare Company \<OntactHealth\> 💁
+👋 Hello, I am **Junsik Kong!**<br> 
+ I'm a **Master of Industrial Engineering and Data Analyst of OntactHealth** now <br>
+ How to reach me: **jsgong94@gmail.com**<br> 
 </div>
 
 <br>
 <div align=center><h2>📚 STACKS 📚</h2></div>
 <div align=center>
 <p>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
-  <img src="https://img.shields.io/badge/-SAS-blue?style=for-the-badge&logo=SAS&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/python-4584b6?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+
+  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> 
+  <img src="https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+  <img src="https://img.shields.io/badge/gitlab%20CI-181717?style=for-the-badge&logo=gitlab&logoColor=white">
+
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=white"> 
  <p>
 </div>	
 <br>
 
 <div align=center><h2>💻 My Interest 💻 </h2></div>	
-<div align=center><h3>Causal Inference / Survival Analysis / Big-Data Analysis</h3></div>	
+<div align=center><h3>AI Engineering / MLOps</h3></div>	
 <br>
 
 <div align=center><h2>🛠 Tools 🛠</h2></div>
 <div align=center>
 <p>
-<img src="https://img.shields.io/badge/Rstudio-276DC3?style=for-the-badge&logo=rstudio&logoColor=white"/>
- <img src="https://img.shields.io/badge/Notion-1877f2?style=for-the-badge&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual Studio-F9AB00?style=for-the-badge&logo=Visual Studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
  <p>
 </div>
 <br>
@@ -39,29 +44,22 @@
 ### 📝 학력
 |기간|소속|전공|학위|비고|
 |-|-|-|-|-|
-|2022.03 ~ 2023.08|숙명여자대학교 일반대학원|통계학|석사|졸업|
-|2018.03 ~ 2022.02|숙명여자대학교 통계학과|통계학|학사|제1전공|
+|2017.03 ~ 2019.02|성균관대학교 일반대학원|산업공학|석사|졸업|
+|2013.03 ~ 2017.02|성균관대학교 공과대학|시스템경영공학|학사|제1전공|
 <br>
 
 ### 🏫 경력
 |근무기간|회사명|부서/직책|담당업무|
 |-|-|-|-|
-|2024.01~|OntactHealth|Predict Health 본부 / 파트너|Data Analyst|
-|2023.09~2023.12|Wellxecon|데이터 분석팀 / 매니저|Data Scientist|
-|2022.07~2022.09|SK Inc.|Portforlio 기획실 / 인턴|RA(Research & Data Analysis)|
+|2023.05 ~ |Ontact Health|연구개발본부 / 파트너|DL Engineering & MLOps|
+|2021.11 ~ 2023.05|Machbase|AI 개발본부 / 사원|DL Engineering & MLOps|
 <br>
 
 ### 📆 경험
 |기간|구분|기관/장소|내용|
 |-|-|-|-|
-|2024.05~진행 중|스터디 모임|가짜 연구소|인과 추론과 실무(인과추론의 실무 사례 템플릿 및 한글화)|
-|2024.03~2024.05|개인 스터디|Inflearn|BigQuery 및 SQL 학습|
-|2023.05~2023.12|스터디 모임|개인 주최|ISLR(An Introduction to Statistical Learning with Python) 책 정독 및 내용 정리|  
-|2021.08~2021.11|교육|한국보건복지인력개발원|의료 인공지능 데이터 분석 기본 과정 교육 수료|
-|2021.07~2021.08|교육|정보통신산업진흥원|AI 온라인 실무 기본 / 응용 교육 과정 수료|
-|2021.01~2021.03|교육|한국보건복지인력개발원 / 서울아산병원|정보의학개론 강의 수료|
-|2019.06~2019.12|동아리|4차산업혁명동아리 TAVE|R programming studying|
-
+|2018.03~2019.02|활동|성균관대학교 일반대학원 총학생회|대외협력부장|
+|2017.03~2018.02|활동|성균관대학교 일반대학원 산업공학과 학생회|부회장|
 
 <br>
 
