@@ -85,7 +85,7 @@
 |수행기간|프로젝트명|목적|주관기관|
 |-|-|-|-|
 |2023.10 ~ |[온이원](https://github.com/Jerry1772/Jerry1772/blob/main/assets/onione.md)|건강검진과 건강보험 이용 내역을 통한 질병 예측과 원인 분석|온택트헬스|
-|2023.05 ~ 2023.10|[애니핏 플러스](https://github.com/Jerry1772/Jerry1772/blob/main/assets/anyfit+.png)|건강검진 내역을 통한 질병 예측과 원인 분석 (on-premise, 삼성화재)|온택트헬스|
+|2023.05 ~ 2023.10|[애니핏 플러스](https://github.com/Jerry1772/Jerry1772/blob/main/assets/anyfit+.md)|건강검진 내역을 통한 질병 예측과 원인 분석 (on-premise, 삼성화재)|온택트헬스|
 |2022.10 ~ 2023.05|[AID Core Module](https://github.com/Jerry1772/Jerry1772/blob/main/assets/aid_core.png)|자체 제품들이 공유할 수 있는 코어 모듈들을 재설계 및 구현|마크베이스|
 |2022.02 ~ 2022.09|[CEMS AI](https://github.com/Jerry1772/Jerry1772/blob/main/assets/ai_master.png)|자체 시계열 DB와 데이터레이크, 실시간 이상감지 솔루션의 클라우드화|마크베이스|
 |2021.11 ~ 2022.02|[AI Master](https://github.com/Jerry1772/Jerry1772/blob/main/assets/cems_ai.png)|자체 시계열 DB와 연동된 딥러닝 추론 시스템|마크베이스|
