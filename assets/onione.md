@@ -12,15 +12,15 @@
 <br/><br/>
 
 ## 스택
-- Python
-- Go
-- Docker
-- AWS
-- Triton Inference Server
-- ONNX
-- TensorRT
-- Multi Processing
-- Multi Threading
+<img src='https://img.shields.io/badge/python-4584b6?style=for-the-badge&logo=python&logoColor=white'>
+<img src='https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white'>
+<img src='https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white'>
+<img src='https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white'>
+<img src='https://img.shields.io/badge/triton inference server-76B900?style=for-the-badge&logo=nvidia&logoColor=white'>
+<img src='https://img.shields.io/badge/onnx-8d8d8d?style=for-the-badge&logo=onnx&logoColor=white'>
+<img src='https://img.shields.io/badge/tensorrt-76B900?style=for-the-badge&logo=nvidia&logoColor=white'>
+<img src='https://img.shields.io/badge/Multi Processing-d9ead3?style=for-the-badge'> 
+<img src='https://img.shields.io/badge/Multi Threading-d9ead3?style=for-the-badge'> 
 
 ## 주 라이브러리
 - FastAPI
@@ -29,3 +29,4 @@
 - Multiprocessing
 - Echo
 - Fiber
+

@@ -1,0 +1,22 @@
+{
+    "mysql": "<img src='https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white'>",
+    "jupyter": "<img src='https://img.shields.io/badge/jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white'>",
+    "windows": "<img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white'>",
+    "gitlab": "<img src='https://img.shields.io/badge/gitlab%20CI-181717?style=for-the-badge&logo=gitlab&logoColor=white'>",
+    "tritoninferenceserver": "<img src='https://img.shields.io/badge/triton inference server-76B900?style=for-the-badge&logo=nvidia&logoColor=white'>",
+    "go": "<img src='https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white'>",
+    "kubernetes": "<img src='https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white'>",
+    "alpine": "<img src='https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white'>",
+    "centos": "<img src='https://img.shields.io/badge/cent os-002260?style=for-the-badge&logo=centos&logoColor=white'>",
+    "github": "<img src='https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white'>",
+    "aws": "<img src='https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white'>",
+    "slack": "<img src='https://img.shields.io/badge/Slack-E34F26?style=for-the-badge&logo=HTML5&logoColor=white'>",
+    "redis": "<img src='https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=white'>",
+    "python": "<img src='https://img.shields.io/badge/python-4584b6?style=for-the-badge&logo=python&logoColor=white'>",
+    "visual": "<img src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white'>",
+    "ubuntu": "<img src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white'>",
+    "docker": "<img src='https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white'>",
+    "onnx": "<img src='https://img.shields.io/badge/onnx-8d8d8d?style=for-the-badge&logo=onnx&logoColor=white'>",
+    "tensorrt": "<img src='https://img.shields.io/badge/tensorrt-76B900?style=for-the-badge&logo=nvidia&logoColor=white'>"
+}
+
