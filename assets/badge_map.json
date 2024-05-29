@@ -23,6 +23,8 @@
     "keras": "<img src='https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white'>",
     "fastapi": "<img src='https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi&logoColor=white'>",
     "echo": "<img src='https://img.shields.io/badge/echo-00ADD8?style=for-the-badge&logo=go&logoColor=white'>",
-    "fiber": "<img src='https://img.shields.io/badge/fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white'>"
+    "fiber": "<img src='https://img.shields.io/badge/fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white'>",
+    "nats": "<img src='https://img.shields.io/badge/nats-005571?style=for-the-badge&logo=nats&logoColor=white'>",
+    "scikitlearn": "<img src='https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white'>"
 }
 
