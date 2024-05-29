@@ -87,8 +87,8 @@
 |2023.10 ~ |[온이원](https://github.com/Jerry1772/Jerry1772/blob/main/assets/onione.md)|건강검진과 건강보험 이용 내역을 통한 질병 예측과 원인 분석|온택트헬스|
 |2023.05 ~ 2023.10|[애니핏 플러스](https://github.com/Jerry1772/Jerry1772/blob/main/assets/anyfit+.md)|건강검진 내역을 통한 질병 예측과 원인 분석 (on-premise, 삼성화재)|온택트헬스|
 |2022.10 ~ 2023.05|[AID Core Module](https://github.com/Jerry1772/Jerry1772/blob/main/assets/aid_core.md)|자체 제품들이 공유할 수 있는 코어 모듈들을 재설계 및 구현|마크베이스|
-|2022.02 ~ 2022.09|[CEMS AI](https://github.com/Jerry1772/Jerry1772/blob/main/assets/ai_master.md)|자체 시계열 DB와 데이터레이크, 실시간 이상감지 솔루션의 클라우드화|마크베이스|
-|2021.11 ~ 2022.02|[AI Master](https://github.com/Jerry1772/Jerry1772/blob/main/assets/cems_ai.md)|자체 시계열 DB와 연동된 딥러닝 추론 시스템|마크베이스|
+|2022.02 ~ 2022.09|[CEMS AI](https://github.com/Jerry1772/Jerry1772/blob/main/assets/cems_ai.md)|자체 시계열 DB와 데이터레이크, 실시간 이상감지 솔루션의 클라우드화|마크베이스|
+|2021.11 ~ 2022.02|[AI Master](https://github.com/Jerry1772/Jerry1772/blob/main/assets/ai_master.md)|자체 시계열 DB와 연동된 딥러닝 추론 시스템|마크베이스|
 |2017.06 ~ 2019.05|정보기반 협업을 위한 온톨로지 모델 개발 및 정보관리 기법 연구|국방과학연구소 과제|성균관대학교 IWTL|-|
 |2016.11 ~ 2019.09|사물인터넷 기반의 고령자 보행사고 예방을 위한 기술 연구|한국연구재단 과제|성균관대학교 IWTL|-|
 |2016.10 ~ 2018.01|가전제품의 장애유형 독립적인 입력 및 이상상황 접근성 향상 기술의 개발|한국산업기술평가관리원 과제|성균관대학교 IWTL|-|
