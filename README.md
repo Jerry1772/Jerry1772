@@ -85,14 +85,14 @@
 ### 💻 프로젝트
 |수행기간|keyword|프로젝트명|목적|역할
 |-|-|-|-|-|
-|2023.10 ~ |Python · Go<br/>FastAPI · Tensorflow · Numpy<br/>Echo · Fiber · Gonum<br/><hr/>ONNX · TensorRT · Triton<br/>AWS · Docker|온이원|건강검진과 건강보험 이용 내역을 통한<br/>질병 예측과 원인 분석|· 추론 서버 개발<br/>· LRP 최적화/디버깅<br/>· ONNX, TensorRT, Triton으로 추론 효율성 개선<br/>· Dockerize 및 AWS EC2 상에 배포<br/>· 추론서버 전체를 Go으로 포팅|
-|2023.05 ~ 2023.10|Python<br/>FastAPI · Tensorflow · Numpy|애니핏 플러스|건강검진 내역을 통한<br/>질병 예측과 원인 분석 (on-premise)|· 기존 코드를 분석하여 추론서버를 재설계하고 구현<br/>·> 서브프로세스들에서 모델 셋을 정의하여 메인 서버와 통신하는 구조<br/>·> 메인/서브프로세스 로깅, 상태 모니터링 기능 개발<br/>· 모델에 따라 변화되는 입력데이터의 검증 기능 개발<br/>· 여러 스케일로 서버를 배포하고 부하테스트로 환경에 맞는 스케일을<br/>추천하는 시스템 개발|
-|2022.10 ~ 2023.05|Python · Go<br/>FastAPI · Tensorflow · Numpy<br/>NATS(MQ)|AID Core Module|자체 제품들이 공유할 수 있는<br/>코어 모듈들을 재설계 및 구현|· Data Fetch (소스별), Data Load (타입별), Preprocess, Train,<br/>Evaluate, Inference, Postprocess 모듈 개발<br/>· 기존 제품 3종의 코드 리팩토링<br/>· 시계열 이상감지 모델 연구개발<br/>· MQ 서버/클라이언트 구현|
-|2022.02 ~ 2022.09|Python · Go<br/>Docker · Kubernetes · AWS<br/>MySQL · Redis<br/>FastAPI · Tensorflow · Numpy<br/>Echo · Kubectl|CEMS AI|자체 시계열 DB와 데이터레이크,<br/>실시간 이상감지 솔루션의 클라우드화|.|
+|2023.10 ~ |Python · Go FastAPI · Tensorflow · Numpy Echo · Fiber · Gonum <hr/>ONNX · TensorRT · Triton · AWS · Docker|온이원|건강검진과 건강보험 이용 내역을 통한 질병 예측과 원인 분석|· 추론 서버 개발 · LRP 최적화/디버깅 · ONNX, TensorRT, Triton으로 추론 효율성 개선 · Dockerize 및 AWS EC2 상에 배포 · 추론서버 전체를 Go으로 포팅|
+|2023.05 ~ 2023.10|Python FastAPI · Tensorflow · Numpy|애니핏 플러스|건강검진 내역을 통한 질병 예측과 원인 분석 (on-premise)|· 기존 코드를 분석하여 추론서버를 재설계하고 구현 ·> 서브프로세스들에서 모델 셋을 정의하여 메인 서버와 통신하는 구조 ·> 메인/서브프로세스 로깅, 상태 모니터링 기능 개발 · 모델에 따라 변화되는 입력데이터의 검증 기능 개발 · 여러 스케일로 서버를 배포하고 부하테스트로 환경에 맞는 스케일을 추천하는 시스템 개발|
+|2022.10 ~ 2023.05|Python · Go FastAPI · Tensorflow · Numpy NATS(MQ)|AID Core Module|자체 제품들이 공유할 수 있는 코어 모듈들을 재설계 및 구현|· Data Fetch (소스별), Data Load (타입별), Preprocess, Train, Evaluate, Inference, Postprocess 모듈 개발 · 기존 제품 3종의 코드 리팩토링 · 시계열 이상감지 모델 연구개발 · MQ 서버/클라이언트 구현|
+|2022.02 ~ 2022.09|Python · Go Docker · Kubernetes · AWS MySQL · Redis FastAPI · Tensorflow · Numpy Echo · Kubectl|CEMS AI|자체 시계열 DB와 데이터레이크, 실시간 이상감지 솔루션의 클라우드화|.|
 |2021.11 ~ 2022.02|.|AI Master|System Engineering|.|
-|2017.06 ~ 2019.05|.|정보기반 협업을 위한 온톨로지<br/>모델 개발 및 정보관리 기법 연구|Researcher|.|
-|2016.11 ~ 2019.09|.|사물인터넷 기반의 고령자 보행사고<br/>예방을 위한 기술 연구|Researcher|.|
-|2016.10 ~ 2018.01|.|가전제품의 장애유형 독립적인 입력 및<br/>이상상황 접근성 향상 기술의 개발|Researcher|.|
+|2017.06 ~ 2019.05|.|정보기반 협업을 위한 온톨로지 모델 개발 및 정보관리 기법 연구|Researcher|.|
+|2016.11 ~ 2019.09|.|사물인터넷 기반의 고령자 보행사고 예방을 위한 기술 연구|Researcher|.|
+|2016.10 ~ 2018.01|.|가전제품의 장애유형 독립적인 입력 및 이상상황 접근성 향상 기술의 개발|Researcher|.|
 
 
 <br>
