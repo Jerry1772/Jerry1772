@@ -17,6 +17,12 @@
     "ubuntu": "<img src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white'>",
     "docker": "<img src='https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white'>",
     "onnx": "<img src='https://img.shields.io/badge/onnx-8d8d8d?style=for-the-badge&logo=onnx&logoColor=white'>",
-    "tensorrt": "<img src='https://img.shields.io/badge/tensorrt-76B900?style=for-the-badge&logo=nvidia&logoColor=white'>"
+    "tensorrt": "<img src='https://img.shields.io/badge/tensorrt-76B900?style=for-the-badge&logo=nvidia&logoColor=white'>",
+    "tensorflow": "<img src='https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white'>",
+    "numpy": "<img src='https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white'>",
+    "keras": "<img src='https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white'>",
+    "fastapi": "<img src='https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi&logoColor=white'>",
+    "echo": "<img src='https://img.shields.io/badge/echo-00ADD8?style=for-the-badge&logo=go&logoColor=white'>",
+    "fiber": "<img src='https://img.shields.io/badge/fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white'>"
 }
 
