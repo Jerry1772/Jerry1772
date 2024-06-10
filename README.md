@@ -62,8 +62,8 @@
 ### 🏫 경력
 |근무기간|회사명|부서/직책|담당업무|
 |-|-|-|-|
-|2023.05 ~ |Ontact Health|연구개발본부 / 파트너|DL Engineering & MLOps|
-|2021.11 ~ 2023.05|Machbase|AI 개발본부 / 사원|DL Engineering & MLOps|
+|2023.05 ~ |[Ontact Health](https://www.ontacthealth.com/)|연구개발본부 / 파트너|DL Engineering & MLOps|
+|2021.11 ~ 2023.05|[Machbase](https://www.machbase.com/)|AI 개발본부 / 사원|DL Engineering & MLOps|
 <br>
 
 ### 📆 경험
